@@ -22,3 +22,5 @@ $ chmod +x cam-sploit.py
 $ python3 cam-sploit.py
 
 *Same processes for arch , debian , 
+![cam](https://user-images.githubusercontent.com/91869614/189514313-3f431d37-aea3-4143-83b0-261de24ff08a.png)
+![cam2](https://user-images.githubusercontent.com/91869614/189514316-e5fdf9c1-419a-47c9-a142-58bd82d4da30.png)
