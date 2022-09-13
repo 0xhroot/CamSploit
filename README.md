@@ -15,7 +15,9 @@ $ git clone
 
 $ cd CamSploit
 
-$ pip3 install requirements.txt
+$ chmod +x install.sh
+
+$ ./install.sh
 
 $ chmod +x cam-sploit.py
 
